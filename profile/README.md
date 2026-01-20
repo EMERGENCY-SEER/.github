@@ -67,7 +67,7 @@ SEER는 **qSOFA 기준**과 **시계열 바이탈 분석**을 결합하여 다�
 최신 기술 트렌드를 반영하여 **고성능, 고가용성**을 목표로 설계되었습니다.
 
 ### **Backend**
-<img src="https://img.shields.io/badge/Java 21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Redis (Reactive)-DC382D?style=flat-square&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/Spring Data JPA-gray?style=flat-square&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/Java 21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Data JPA-gray?style=flat-square&logo=spring&logoColor=white">
 
 * **Language**: Java 21 (LTS)
 * **Framework**: Spring Boot (WebFlux/Reactive Stack 지원)
